@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohan-poornachandra
 - 👀 I’m interested in coding and development.
-- 🌱 I’m currently learning C++, web development.
+- 🌱 I’m currently learning Data Structures in C++.
 - 💞️ I’m looking to collaborate on technology development projects.
 - 📫 How to reach me: email: rmohanpoornachandra@gmail.com
                          Phone: +91 7483844696
