@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structures in C++.
 - 💞️ I’m looking to collaborate on technology development projects.
 - 📫 How to reach me: email: rmohanpoornachandra@gmail.com
-                         Phone: +91 7483844696
+                         
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like to watch horror movies with my friends, but I really get very scared.
 
